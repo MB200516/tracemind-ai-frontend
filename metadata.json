@@ -1,0 +1,6 @@
+{
+  "name": "TraceMind AI Observability",
+  "description": "Production-grade distributed systems observability platform with real-time topology maps, eBPF telemetry, AI autonomous diagnostics, and threat vector isolation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
